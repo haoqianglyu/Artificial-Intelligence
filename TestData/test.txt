@@ -1,0 +1,24 @@
+# Every line that begins with # is a comment
+# File name format: graph_n_m.txt, where n: number of vertices and m: number of edges
+# Landscape consists of 10 "squares" by 10 "squares" (like a chessboard), indexed from 0 through 9
+# Each "square" is 100x100.
+# Vertices: Index, SquareX, SquareY
+Vertices
+0,1,8
+1,5,7
+2,6,2
+3,7,1
+4,4,9
+5,4,9
+# Edges: fromIndex, toIndex, edgeCost  
+Edges
+0,8,374
+0,25,1468
+0,28,1377
+0,35,350
+0,48,716
+0,50,1230
+0,56,805
+0,57,134
+0,61,296
+0,62,278
