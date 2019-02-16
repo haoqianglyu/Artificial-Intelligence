@@ -18,23 +18,23 @@ Step 5: Once you've labeled the beginning vertex as visited - stop. The distance
 
 ## How to Run My Program
 Step 1: Download the zip file from my github
-![image]https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/1.png
+![image](https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/1.png)
 
 Step 2: Import the project to IDE
 
-![image]https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/2.png
-![image]https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/3.png
-![image]https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/4.png
-![image]https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/5.png
+![image](https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/2.png)
+![image](https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/3.png)
+![image](https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/4.png)
+![image](https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/5.png)
 
 Step 3: Run the MainFunction.java
 
-![image]https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/6.png
+![image](https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/6.png)
 
 Step 4: Follow the intructions to input
 
 
 ## Here is 2 examples
-![image]https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/7.png
-![image]https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/8.png
+![image](https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/7.png)
+![image](https://github.com/haoqianglyu/Artificial-Intelligence/blob/master/image/8.png)
 
